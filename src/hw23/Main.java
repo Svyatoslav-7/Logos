@@ -26,8 +26,8 @@ public class Main {
             }
             count++;
         }
-        System.out.println(positive);
-        System.out.println(negative);
-        System.out.println(zero);
+        System.out.println("Кількість додатніх чисел: "positive);
+        System.out.println("Кількість від'ємних чисел:"negative);
+        System.out.println("Кількість нулів:"zero);
     }
 }
